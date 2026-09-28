@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="history">History:\n</string>
+    <string name="zero_division">Syntax de Sintaxi</string>
+</resources>
